@@ -12,7 +12,7 @@
 	<artifactId>beans</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>beans</name>
-	<description>Usando Beans</description>
+	<description>Projeto livraria para implementação de Beans</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
